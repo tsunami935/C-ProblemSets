@@ -1,0 +1,12 @@
+[Easy] Calculate Distance
+Topics: I/O, driver, main loop, while loops
+
+Write a program that: (Calculate Distance) [I/O, driver, main loop, while loops] 
+  -Prompts the user for two points in the form (x, y). 
+  -Computes and displays the distance between these two points to the terminal. 
+  -The program should prompt the user if they want to calculate another distance. 
+  -If the user says yes, repeat the program.
+  -If the user says no, exit the program. 
+  
+Example I/O:
+  Input: [“0, 3”, “4, 0”, “no”] output: 5.0 
