@@ -1,0 +1,12 @@
+[Easy] Race Times
+Topics: I/O, minimum, while loops
+
+Write a program that:
+  -Prompts the user to enter race times (in s.ms) until they say stop. 
+  -Prints the fastest time. 
+  -End with new line. 
+
+Example I/O:
+  Input: [44.00, 33.20, 14.50, 18.80, stop] output: 14.50 
+  Input: [63.87, go, 42.45, stop] output: 42.5 
+  Input: [65.23, 56.70, stop, 44.30] output: 56.70 
