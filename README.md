@@ -1,2 +1,2 @@
 # C-ProblemSets
-Some problem sets I came up with. Hopefully, they can be of some use.
+Some problem sets I came up with for some friends in Computing. Hopefully, they can be of some use.
